@@ -44,7 +44,7 @@ $ hasura microservice open app
 
 If the browser shows a "Hasura Hello World" page, everything is working as expected.
 If it doesn't, go through the previous steps and see if you missed anything.
-
+Keep a note of your cluster name. Alternatively, you can also go to your [hasura dashboard](https://dashboard.hasura.io) and see the clusters you have.
 
 
 ## Edit and deploy code
